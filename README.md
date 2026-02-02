@@ -1,6 +1,6 @@
 # Proyecto BI – Evaluación de Ventas
 
-Este repositorio contiene los archivos de soporte de un proyecto de Business Intelligence orientado al análisis de ventas, desarrollado como práctica personal utilizando Power BI.
+Este repositorio contiene los archivos de soporte de un proyecto de Business Intelligence orientado al análisis de ventas, desarrollado como práctica personal utilizando Excel y Power BI.
 
 ## Objetivo del proyecto
 Construir un modelo de datos confiable que permita evaluar el desempeño comercial, priorizando la calidad de los datos y evitando conclusiones engañosas en los análisis.
